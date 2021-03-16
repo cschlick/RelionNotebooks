@@ -2,3 +2,4 @@ name: relionnotebooks
 dependencies:
   - numpy
   - pandas
+  - matplotlib
